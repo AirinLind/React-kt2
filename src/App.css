@@ -1,0 +1,18 @@
+.Add{
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    height: 40px;
+    width: 160px;
+    outline: 1px solid black;
+    box-shadow: 5px 5px 5px black;
+}
+
+.Block{
+    background-color: rgb(187, 187, 187);
+    margin: 30px 170px;
+    outline: 1px solid black;
+    padding: 30px;
+    box-shadow: 5px 5px 5px black;
+}
+
